@@ -15,7 +15,7 @@
 ```text
 /
 ├── AGENTS.md                         # AI 維護規範
-├── README.md                         # 瀏覽、發布、繳交與擴充說明
+├── README.md                         # 專案簡介與網站連結
 ├── index.html                        # 永遠保留的網站總覽首頁
 ├── css/
 │   └── style.css                     # 全站共用外觀
