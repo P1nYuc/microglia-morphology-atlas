@@ -1,5 +1,7 @@
 # Microglia Morphology Atlas
 
+[公開網站](https://p1nyuc.github.io/microglia-morphology-atlas/) · [GitHub Repository](https://github.com/P1nYuc/microglia-morphology-atlas)
+
 微膠細胞形態與生理知識庫。以繁體中文介紹形態特徵、生理功能與研究判讀，並透過 [AGENTS.md](AGENTS.md) 建立可重複使用的 AI 維護流程。
 
 網站採醫療常見的深藍、青綠與白色，以文字、表格及學術引用為主；目前沒有 AI 生成圖片、實驗影像或外部字型。
@@ -48,7 +50,9 @@ python -m http.server 8000 --bind 127.0.0.1
 
 ## 上傳 GitHub 並啟用 GitHub Pages
 
-**目前狀態：** [公開 Repository 已建立](https://github.com/P1nYuc/microglia-morphology-atlas)，本機專案已準備；網站檔案尚未上傳，GitHub Pages 尚未確認啟用。此文件不代表已完成部署。
+**目前狀態：** 專案已上傳至 [GitHub Repository](https://github.com/P1nYuc/microglia-morphology-atlas)，GitHub Pages 已啟用，發布來源為 `main` 分支的 `/ (root)`，並啟用 HTTPS。[公開網站](https://p1nyuc.github.io/microglia-morphology-atlas/)的首頁、兩篇主題頁、CSS 與 AGENTS.md 已確認可透過公開網址讀取。
+
+以下保留首次部署步驟作為維護參考；目前專案不需要重新建立儲存庫或初始化 Git。
 
 ### 1. 建立並上傳儲存庫
 
@@ -115,13 +119,13 @@ AI 應依序完成：
 | 決定小專案 | 微膠細胞形態與生理知識庫 |
 | 建立可理解、可延伸的規則 | AGENTS.md 的檔名、結構、來源、範本及 SOP |
 | 至少一個可瀏覽網頁 | 首頁、分枝型與阿米巴型微膠細胞介紹頁 |
-| GitHub Repository | 依上方步驟上傳後填入實際連結 |
-| 公開網站 | 啟用 Pages 後填入實際連結並重新檢查 |
+| GitHub Repository | [P1nYuc/microglia-morphology-atlas](https://github.com/P1nYuc/microglia-morphology-atlas) |
+| 公開網站 | [Microglia Morphology Atlas](https://p1nyuc.github.io/microglia-morphology-atlas/) |
 | 說明如何持續新增內容 | 上方提示詞與下方繳交說明 |
 
 ## 繳交內容範本
 
-以下方括號內容由本人確認、替換；不要將尚未發布的示例網址當成正式連結。
+以下連結已填入本專案的實際網址；標題中的學校、學號、系級與姓名仍須由本人確認、替換。
 
 **標題：** [學校] [學號] [系級] [姓名] Microglia Morphology Atlas
 
@@ -131,9 +135,9 @@ AI 應依序完成：
 
 **2. GitHub Repository 連結：** [P1nYuc/microglia-morphology-atlas](https://github.com/P1nYuc/microglia-morphology-atlas)
 
-**3. 網頁連結：** [填入部署成功的公開網址]
+**3. 網頁連結：** [Microglia Morphology Atlas](https://p1nyuc.github.io/microglia-morphology-atlas/)
 
-**4. AGENTS.md：** [填入 Repository 中 AGENTS.md 的實際連結；若課程要求全文，另附全文]
+**4. AGENTS.md：** [專案維護規範](https://github.com/P1nYuc/microglia-morphology-atlas/blob/main/AGENTS.md)；若課程要求全文，另附全文。
 
 **5. 規則如何協助 AI 繼續擴充？**
 
