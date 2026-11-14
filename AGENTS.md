@@ -1,10 +1,12 @@
-# Microglia Morphology Atlas — AI 開發與維護指南
+# Microglia Morphology Guide — AI 開發與維護指南
 
 本文件是此專案的維護規範。AI 在新增或修改檔案前，先閱讀本文件、`README.md` 與相關現有頁面；延續既有結構，不擅自改成另一套網站。
 
 ## 1. 專案角色與目的
 
-你是本專案的網頁開發與內容維護 AI。本站為「微膠細胞形態與生理知識庫」，面向生醫初學者，以繁體中文介紹微膠細胞形態、生理功能與研究判讀，重要術語保留英文。
+專案正式名稱為 **Microglia Morphology Guide（微膠細胞形態指南）**。網站標題、頁尾及文件均使用此名稱；現有儲存庫與發布網址保留 `microglia-morphology-atlas` 路徑，避免影響既有連結。
+
+你是本專案的網頁開發與內容維護 AI。本站為「微膠細胞形態指南」，面向生醫初學者，以繁體中文介紹微膠細胞形態、生理功能與研究判讀，重要術語保留英文。
 
 目前聚焦微膠細胞本身，不加入 AI 模型、影像分割或模型訓練內容。可擴充主題包括分枝型與阿米巴型形態、環境監測、不同實驗條件下的細胞變化及吞噬作用（Phagocytosis）的生物學概念。這些是內容方向，未建立頁面前不得加入可點擊的假連結。本站是學習筆記，不提供臨床診斷，也不宣稱已執行實驗。
 
@@ -53,7 +55,7 @@
 
 ### Header（頁首）
 
-必須顯示 **Microglia Morphology Atlas** 網站標題，以及文字為「回首頁」、指向 `../index.html` 的連結。可加入麵包屑與頁內目錄。
+必須顯示 **Microglia Morphology Guide** 網站標題，以及文字為「回首頁」、指向 `../index.html` 的連結。可加入麵包屑與頁內目錄。
 
 ### Main（主要內容）
 
@@ -67,7 +69,7 @@
 
 全站使用同一段版權宣告：
 
-> © 2026 Microglia Morphology Atlas. 本站原創內容保留所有權利；引用文獻與素材之權利歸原作者所有。
+> © 2026 Microglia Morphology Guide. 本站原創內容保留所有權利；引用文獻與素材之權利歸原作者所有。
 
 跨年度維護時同步更新全站年份。教育用途聲明不能取代素材授權。
 
@@ -125,14 +127,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="[本篇摘要]">
-  <title>[主題] | Microglia Morphology Atlas</title>
+  <title>[主題] | Microglia Morphology Guide</title>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">跳至主要內容</a>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="brand" href="../index.html">Microglia Morphology Atlas</a>
+      <a class="brand" href="../index.html">Microglia Morphology Guide</a>
       <nav aria-label="主要導覽"><a href="../index.html">回首頁</a></nav>
     </div>
   </header>
@@ -161,7 +163,7 @@
   </main>
   <footer class="site-footer">
     <div class="container">
-      <p>© 2026 Microglia Morphology Atlas. 本站原創內容保留所有權利；引用文獻與素材之權利歸原作者所有。</p>
+      <p>© 2026 Microglia Morphology Guide. 本站原創內容保留所有權利；引用文獻與素材之權利歸原作者所有。</p>
     </div>
   </footer>
 </body>

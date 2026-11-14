@@ -1,4 +1,4 @@
-﻿# Microglia Morphology Atlas 設計草案
+﻿# Microglia Morphology Guide 設計草案
 
 > 版本說明（2026-11-14）：下方為初版歷史紀錄。使用者後續已要求聚焦微膠細胞生物學；現行網站與 AGENTS.md 以「形態特徵 / 核心概念」及「生理功能與研究判讀」為核心，移除 AI 模型與影像分割內容。主題頁現有三筆參考資料；目前規範以根目錄 AGENTS.md 為準。
 
