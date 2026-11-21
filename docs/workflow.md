@@ -1,6 +1,6 @@
 # Wiki 到教學簡報的 Graph
 
-依課堂示範拆出覆蓋率、人工確認、忠實度與渲染關卡。 [課堂 Graph](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=6450s)
+依課堂示範拆出覆蓋率、人工確認、忠實度與渲染關卡。
 
 ```mermaid
 flowchart TD

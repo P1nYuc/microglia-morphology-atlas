@@ -14,10 +14,10 @@ Wiki 把五篇小鼠原始研究整理成可查詢的繁體中文知識庫。讀
 
 | 階段 | 老師的示範 | 本題的實作 |
 | --- | --- | --- |
-| 一 | [36:50](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=2210s) 在 Antigravity 設定專案，先談 Wiki 需求。 | 在 Codex 延續既有網站，先確認題目、讀者與證據範圍，再補寫 [Wiki 維護規則](../wiki/rules.md)。 |
-| 二 | [1:00:04](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=3604s) 確認規則、匯入文獻，從 Obsidian 檢查知識庫。 | 將已查核的 5 篇研究整理為獨立來源筆記，建立 4 篇概念條目和 [Markdown 索引](../wiki/index.md)。以連結驗證檢查 Markdown 結構。 |
-| 三 | [1:17:03](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=4623s) 比較單次 Prompt 與 Loop；[1:25:20](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=5120s) 確認簡報需求與呈現。 | 先留單次大綱，再逐張回讀 Wiki，確定七張簡報的讀者、版式、比較卡與練習。詳見[大綱審查](microglia-slide-outline.md)。 |
-| 四 | [1:31:38](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=5498s) 審大綱、製作投影片並留檢查紀錄；[1:45:07](https://www.youtube.com/watch?v=pEmuTl9vTf8&t=6307s) 用 Git 與 GitHub 整理繳交成果。 | 先審大綱，再檢查與修訂 HTML。以 Git 差異及下方的重跑紀錄留存可交付結果。 |
+| 一 | 36:50 在 Antigravity 設定專案，先談 Wiki 需求。 | 在 Codex 延續既有網站，先確認題目、讀者與證據範圍，再補寫 [Wiki 維護規則](../wiki/rules.md)。 |
+| 二 | 1:00:04 確認規則、匯入文獻，從 Obsidian 檢查知識庫。 | 將已查核的 5 篇研究整理為獨立來源筆記，建立 4 篇概念條目和 [Markdown 索引](../wiki/index.md)。以連結驗證檢查 Markdown 結構。 |
+| 三 | 1:17:03 比較單次 Prompt 與 Loop；1:25:20 確認簡報需求與呈現。 | 先留單次大綱，再逐張回讀 Wiki，確定七張簡報的讀者、版式、比較卡與練習。詳見[大綱審查](microglia-slide-outline.md)。 |
+| 四 | 1:31:38 審大綱、製作投影片並留檢查紀錄；1:45:07 用 Git 與 GitHub 整理繳交成果。 | 先審大綱，再檢查與修訂 HTML。以 Git 差異及下方的重跑紀錄留存可交付結果。 |
 
 ## Loop / graph
 
